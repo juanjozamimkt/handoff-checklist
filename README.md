@@ -15,9 +15,9 @@ Los escribe y los actualiza la IA. Vos los leés y le corregís lo que haya anot
 
 ## Cómo se usan
 
-### Si tu IA trabaja adentro de tu compu
+### Si tu IA puede leer y escribir archivos
 
-Sirve para Claude Code, Codex y cualquier otra que pueda leer y escribir archivos.
+Es el caso de Claude Code, de Codex y de otras parecidas.
 
 1. Copiá `HANDOFF.md` y `CHECKLIST.md` a la carpeta de tu proyecto. También podés pegarle el link de este repo a tu IA y escribirle: «Leé este repo y armame el HANDOFF y la CHECKLIST de este proyecto.»
 2. Cuando el chat ya viene largo, o cuando cambiás de tema, escribile: «Actualizá el HANDOFF y la CHECKLIST.»
@@ -30,9 +30,9 @@ En Claude Code, por defecto, al contexto le entra un millón de tokens (un token
 
 Para ver cuánto llevás usado, escribí `/context`.
 
-### Si tu IA es un chat en el navegador
+### Si tu IA no guarda archivos
 
-Con ChatGPT, Claude o Gemini se hace igual, copiando y pegando.
+Con un chat común de ChatGPT, Claude o Gemini se hace igual, copiando y pegando.
 
 1. Antes de cerrar el chat, pegale la plantilla de `HANDOFF.md` y pedile que la complete con lo que hicieron.
 2. Guardá ese texto en una nota o en un documento.
